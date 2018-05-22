@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-image: url("mbarrios.fvi-grad.com/WEB-2000/Media/Screenshot5.png")
+}
+
+.video1 {
+  position: fixed;
+  width: auto;
+  height: auto;
+  margin:0;
+  overflow: hidden;
+  opacity: 0.5;
+  display: flex;
+}
+
+.video1Inside {
+  width: 100%;
+  height: 100%; 
+}
